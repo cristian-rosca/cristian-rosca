@@ -3,9 +3,9 @@
   
   ### Connect with me 🤝
   <div id="badges">
-  <href="https://www.linkedin.com/in/cristian-rosca-31119513b/">
-    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" alt="LinkedIn Icon" width="50"/>
-</div>
+    <a href="https://www.linkedin.com/in/cristian-rosca-31119513b/" target="blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" alt="LinkedIn Icon" width="50" /></a>
+
+  </div>
 </div>
 
 
