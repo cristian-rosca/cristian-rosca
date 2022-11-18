@@ -16,7 +16,6 @@
 
 - 🍀 I'm from Dublin, Ireland
 - 💻 I'm a Full-Stack Software Engineer
-- 🌱 I'm learning more about Solidity and Blockchain Development
 - 🏋️ When I'm not coding, I run my online coaching business [Imperium Coaching](https://imperium.coach) 
 
 
