@@ -12,12 +12,6 @@
 
 ### Hey, I'm Cristian 👋
   
-### About me: 
-
-- 🍀 I'm from Dublin, Ireland
-- 💻 I'm a Full-Stack Software Engineer
-- 🏋️ When I'm not coding, I run my online coaching business [Imperium Coaching](https://imperium.coach) 
-
 
 ###  Languages and Tools :hammer_and_wrench:
   <div>
