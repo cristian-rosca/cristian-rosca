@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h3>Hey, I'm Cristian 👋 </h3> 
   <div>
     <a href="https://www.linkedin.com/in/cristian-rosca-31119513b/" target="blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" alt="LinkedIn Icon" width="50" /></a>
